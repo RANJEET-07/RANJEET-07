@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RANJEET-07
+- 👋 Hi, I’m Ranjeet Yadav
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning C, C++, HTML CSS JAVA,and python languages  
 - 💞️ I’m looking to collaborate on beginner projects currently
